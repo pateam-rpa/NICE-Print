@@ -1,0 +1,12 @@
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\Pateam.Print.Library.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\Pateam.Print.Library.pdb
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\Direct.Shared.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\Direct.Shared.Library.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\log4net.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\Newtonsoft.Json.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\obj\Debug\Pateam.Print.Library.csprojAssemblyReference.cache
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\obj\Debug\Pateam.Print.Library.csproj.CoreCompileInputs.cache
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\obj\Debug\Pateam.Print.Library.csproj.CopyComplete
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\obj\Debug\Pateam.Print.Library.dll
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\obj\Debug\Pateam.Print.Library.pdb
+C:\SandBox\projects\General\Pateam.Print.Library\Pateam.Print.Library\bin\Debug\RawPrint.dll
